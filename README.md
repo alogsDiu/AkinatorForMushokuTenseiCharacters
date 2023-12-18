@@ -1,4 +1,5 @@
-Description: Basically it does everything what real Akinator does but only for characters in Mushoku Tensei
+Description: Basically it does everything what real Akinator does but only for characters in Mushoku Tensei 
+Interface: Console
 
 CSV files: Each CSV works as a checkpoint to not loose the accumilated progress 
   1- all_characters_in_mushoku_tensei.csv is the parsed data  
